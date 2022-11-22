@@ -327,26 +327,5 @@
    "Description": "Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
    "Store": "Yambee",
    "Price": "$4.73"
- },
- {
-   "Title": "Redhold",
-   "Genre": "Comedy",
-   "Description": "Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius.",
-   "Store": "Realcube",
-   "Price": "$8.65"
- },
- {
-   "Title": "Bigtax",
-   "Genre": "Action|Adventure|Comedy",
-   "Description": "Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.",
-   "Store": "Zooxo",
-   "Price": "$7.01"
- },
- {
-   "Title": "Stringtough",
-   "Genre": "Comedy",
-   "Description": "Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum.",
-   "Store": "Thoughtworks",
-   "Price": "$7.70"
  }
 ]
